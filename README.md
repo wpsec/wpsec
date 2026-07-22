@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/4F7A5A/wpsec" alt="GitHub 贡献日历" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wpsec&theme=github_dark" alt="GitHub 活动概览" width="100%" />
 </p>
 
