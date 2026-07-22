@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/3fb950/wpsec" alt="GitHub 贡献日历" width="100%" />
+  <img src="https://ghchart.rshah.org/4F7A5A/wpsec" alt="GitHub 贡献日历" width="100%" />
 </p>
 
 <p align="center">
