@@ -1,14 +1,16 @@
 # HELLO
 
-## 数据看板
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wpsec&show_icons=true&hide_border=true&count_private=true&custom_title=GitHub%20%E6%95%B0%E6%8D%AE&title_color=90e0ef&icon_color=4cc9f0&text_color=cbd5e1&bg_color=0d1117&locale=cn" alt="GitHub 数据" height="165" />
+  <img src="https://github-readme-stats-ouuan.vercel.app/api?username=wpsec&show_icons=true" alt="GitHub 数据" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpsec&layout=compact&hide_border=true&title_color=90e0ef&text_color=cbd5e1&bg_color=0d1117&locale=cn" alt="常用语言" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wpsec&bg_color=0d1117&color=90e0ef&line=4cc9f0&point=ffffff&area=true&hide_border=true" alt="GitHub 活动统计图" width="100%" />
+  <img src="https://ghchart.rshah.org/3fb950/wpsec" alt="GitHub 贡献日历" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wpsec&theme=github_dark" alt="GitHub 活动概览" width="100%" />
 </p>
 
 ## 相关技术
@@ -29,7 +31,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <strong>CSDN</strong><br />
+      <strong>CSDN-读书的时候喜欢在上面写一些东西，后面更新就少了，有些内容已经过时或不适用了，不过我个人认为有些内容还是有价值的</strong><br />
       <a href="https://cqnswp.blog.csdn.net/?type=blog">cqnswp.blog.csdn.net</a><br /><br />
       <strong>微信公众号</strong><br />
       摸鱼信安<br /><br />
@@ -37,8 +39,10 @@
       <a href="mailto:wpsecinfo@gmail.com">wpsecinfo@gmail.com</a><br /><br />
       在某厂商待过，目前在某会计行业做安全运维，欢迎各位师傅与我交流～
     </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.nlark.com/yuque/0/2026/png/27875807/1784629530848-06183477-369e-4bee-bfe9-f10746ff5763.png" alt="摸鱼信安二维码" width="220" />
+    <td width="40%" align="center" valign="middle">
+      <p align="center">
+        <img src="https://cdn.nlark.com/yuque/0/2026/png/27875807/1784629530848-06183477-369e-4bee-bfe9-f10746ff5763.png" alt="摸鱼信安二维码" width="220" />
+      </p>
     </td>
   </tr>
 </table>
