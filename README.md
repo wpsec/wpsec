@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-ouuan.vercel.app/api?username=wpsec&show_icons=true" alt="GitHub 数据" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpsec&layout=compact&hide_border=true&title_color=90e0ef&text_color=cbd5e1&bg_color=0d1117&locale=cn" alt="常用语言" height="165" />
+  <img src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=wpsec&layout=compact" alt="常用语言" height="165" />
 </p>
 
 <p align="center">
