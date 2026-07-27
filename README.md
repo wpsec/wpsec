@@ -27,13 +27,13 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <strong>CSDN-读书的时候喜欢在上面写一些东西，后面更新就少了，有些内容已经过时或不适用了，不过我个人认为有些内容还是有价值的</strong><br />
+      <strong>CSDN-读书的时候喜欢在上面写一些笔记，在哪个没有AI的年代，找点资料实属不易，后面出来工作更新就少了，本质上还是一些笔记记录，有些内容已经过时或不适用了，且在这个AI盛行的年代，可能也没什么作用，但是我仍然认为记录笔记是一个很好的习惯。</strong><br />
       <a href="https://cqnswp.blog.csdn.net/?type=blog">cqnswp.blog.csdn.net</a><br /><br />
       <strong>微信公众号</strong><br />
       摸鱼信安<br /><br />
       <strong>邮箱</strong><br />
       <a href="mailto:wpsecinfo@gmail.com">wpsecinfo@gmail.com</a><br /><br />
-      在某厂商待过，目前在某会计行业做安全运维，欢迎各位师傅与我交流～
+      在某安全厂商干了几年，渗透测试岗位，目前在某会计行业做安全运维，欢迎各位师傅与我交流～
     </td>
     <td width="40%" align="center" valign="middle">
       <p align="center">
