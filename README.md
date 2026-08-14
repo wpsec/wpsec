@@ -33,7 +33,7 @@
       摸鱼信安<br /><br />
       <strong>邮箱</strong><br />
       <a href="mailto:wpsecinfo@gmail.com">wpsecinfo@gmail.com</a><br /><br />
-      在某安全厂商干了几年，渗透测试岗位，目前在某会计行业做安全运维，欢迎各位师傅与我交流～
+      在某安全厂商干了几年，渗透测试岗位，目前在某会计行业做安全运维，如果各位师傅有什么有趣的想法，欢迎与我交流～
     </td>
     <td width="40%" align="center" valign="middle">
       <p align="center">
